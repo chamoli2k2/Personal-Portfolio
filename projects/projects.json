@@ -1,0 +1,256 @@
+[
+  {
+    "name": "Real State Mern Stack Website",
+    "desc": "Fully fledged Real state list web app. Built using React, Express.js, MongoDb, Firebase, Redux, NodeJs.",
+    "image": "realstate",
+    "category": "mern",
+    "links": {
+      "view": "https://realstatemernwebapp.onrender.com/",
+      "code": "https://github.com/chamoli2k2/MernStateWebApp"
+    }
+  },
+  {
+    "name": "AR 3d Spinner Top Game",
+    "desc": "This game is a Beyblade Augmented Reality game that will be playable on mobile devices.",
+    "image": "argame",
+    "category": "ar",
+    "links": {
+      "view": "",
+      "code": "https://github.com/chamoli2k2/3D-SpinnerTop-AR-Game"
+    }
+  },
+  
+  {
+    "name": "Disease Predictor",
+    "desc": "The Machine Learning Disease Prediction Web App is a comprehensive health platform developed using React and Vite for the front end, and Flask for the backend.",
+    "image": "disease",
+    "category": "ml",
+    "links": {
+      "view": "https://moderndiseasedetector.onrender.com/",
+      "code": "https://github.com/chamoli2k2/Modern-Disease-Detector-with-ChatGpt"
+    }
+  },
+
+  {
+    "name": "Hate Speech Detector & Blocker",
+    "desc": "This extension is dedicated to promoting a more respectful and inclusive online environment.",
+    "image": "hate",
+    "category": "extn",
+    "links": {
+      "view": "",
+      "code": "https://github.com/chamoli2k2/HateSpeechDetector"
+    }
+  },
+
+  {
+    "name": "Real Time Meeting Platform",
+    "desc": "This project is an online meeting platform similar to Google Meet, offering users the ability to join, create, or schedule online meetings.",
+    "image": "meet",
+    "category": "mern",
+    "links": {
+      "view": "https://let-s-meet-zi85-9gr514siy-gauravs-projects-1c792b58.vercel.app/sign-in?redirect_url=https%3A%2F%2Flet-s-meet-zi85-9gr514siy-gauravs-projects-1c792b58.vercel.app%2F",
+      "code": "https://github.com/chamoli2k2/Let-s-Meet"
+    }
+  },
+  {
+    "name": "Google Doc's Clone",
+    "desc": "This project is an online document editor similar to Google Docs, allowing multiple users to collaborate simultaneously without losing data even if the page is refreshed.",
+    "image": "googledocs",
+    "category": "mern",
+    "links": {
+      "view": "https://online-document-editor.onrender.com/",
+      "code": "https://github.com/chamoli2k2/Online-Document-Editor"
+    }
+  },
+  
+  {
+    "name": "Portfolio Website Older",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "oldfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://my-portfolio-e3fp0xtq2-gauravs-projects-1c792b58.vercel.app/",
+      "code": "https://github.com/chamoli2k2/My-Portfolio"
+    }
+  },
+  {
+    "name": "Amazon Web Scrapper",
+    "desc": "Develop an app using Puppeteer that accepts a keyword via a GET API, searches the keyword on Amazon, and retrieves details of the first four products.",
+    "image": "webscrapper",
+    "category": "basicweb",
+    "links": {
+      "view": "https://composey.netlify.app/",
+      "code": "https://github.com/chamoli2k2/AmazonWebScrapper"
+    }
+  },
+  {
+    "name": "Youtube Backend",
+    "desc": "This project is a backend system inspired by YouTube, where users can upload videos, set avatars and cover images and much more",
+    "image": "youtube",
+    "category": "backend",
+    "links": {
+      "view": "",
+      "code": "https://github.com/chamoli2k2/YoutubeBackend"
+    }
+  },
+  {
+    "name": "Virtual Mall",
+    "desc": "We've developed a solution that transforms the online shopping experience.",
+    "image": "virtualmall",
+    "category": "ar",
+    "links": {
+      "view": "",
+      "code": "https://github.com/chamoli2k2/hack2skill-solution"
+    }
+  },
+  {
+    "name": "Food Detector Backend",
+    "desc": "Developed a food detector backend using machine learning to identify different types of food, integrated with a Flask-based API",
+    "image": "fooddetector",
+    "category": "ml",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/chamoli2k2/food-detector-backend"
+    }
+  },
+  {
+    "name": "Face Detector",
+    "desc": "Developed a face detector system leveraging machine learning for precise face recognition, with a Flask-based backend for data processing.",
+    "image": "facedetector",
+    "category": "mern",
+    "links": {
+      "view": "https://facedetectorfrontend.onrender.com/",
+      "code": "https://github.com/chamoli2k2/Face-Detector-Frontend"
+    }
+  },
+  {
+    "name": "Face Detector Backend",
+    "desc": "Developed a face detector system leveraging machine learning for precise face recognition, with a Flask-based backend for data processin.",
+    "image": "facedetectorbackend",
+    "category": "ml",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/chamoli2k2/face-detector-backend"
+    }
+  },
+  {
+    "name": "ShareBite",
+    "desc": "Created a MERN stack project that redistributes surplus food from restaurants and industries to those in need, promoting sustainability and reducing waste.",
+    "image": "sharebite",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/chamoli2k2/ShareByte-frontend?tab=readme-ov-file"
+    }
+  },
+  {
+    "name": "ShareBite Backend",
+    "desc": "Created a MERN stack project that redistributes surplus food from restaurants and industries to those in need, promoting sustainability and reducing waste.",
+    "image": "sharebitebackend",
+    "category": "backend",
+    "links": {
+      "view": "",
+      "code": "https://github.com/chamoli2k2/ShareByte-backend"
+    }
+  },
+  {
+    "name": "Contack Manager Backend",
+    "desc": "Developed a contact manager backend using the MERN stack, providing robust CRUD operations for efficient contact management.",
+    "image": "contact",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/chamoli2k2/Contact-Manager-Backend"
+    }
+  },
+  {
+    "name": "React todo list",
+    "desc": "Developed a to-do list application using React, offering an intuitive interface for users to manage tasks efficiently.",
+    "image": "reacttodolist",
+    "category": "basicweb",
+    "links": {
+      "view": "https://reacttodolist-7269.onrender.com/",
+      "code": "https://github.com/chamoli2k2/ReactTodoList"
+    }
+  },
+  {
+    "name": "Voting System",
+    "desc": "Developed a Secure Voting System in C++ to modernize election processes with robust user registration and authentication, ensuring only eligible voters participate.",
+    "image": "voting",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": "https://github.com/chamoli2k2/Secured-Voting-System"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Developed a weather app using HTML, CSS, and JavaScript that calls a weather API to display real-time weather data.",
+    "image": "weather",
+    "category": "basicweb",
+    "links": {
+      "view": "https://weather-app-rt8m.onrender.com/",
+      "code": "https://github.com/chamoli2k2/Weather-App"
+    }
+  },
+  {
+    "name": "Restaurant Project",
+    "desc": "Developed a basic restaurant web app using the MERN stack, allowing users to browse the restaurant's menu.",
+    "image": "restaurant",
+    "category": "basicweb",
+    "links": {
+      "view": "https://newrestaurantproject.onrender.com/",
+      "code": "https://github.com/chamoli2k2/NewRestaurantProject"
+    }
+  },
+  {
+    "name": "Guess Game",
+    "desc": "Developed a guess-the-number game where users attempt to guess a randomly generated number between 1 and 100.",
+    "image": "guessgame",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chamoli2k2.github.io/GuessGame/",
+      "code": "https://github.com/chamoli2k2/GuessGame"
+    }
+  },
+  {
+    "name": "College Website Unofficial",
+    "desc": "School of Engineering, JNU College Website Unofficial. Made using HTML, CSS, and JavaScript.",
+    "image": "soewebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chamoli2k2.github.io/SOE-College-Website-Unofficial/",
+      "code": "https://github.com/chamoli2k2/SOE-College-Website-Unofficial"
+    }
+  },
+  {
+    "name": "Simon Game",
+    "desc": "Created a Simon Game that tests users' memory skills by generating increasingly complex sequences of colors and sounds for players to repeat.",
+    "image": "simongame",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chamoli2k2.github.io/Simon-game/",
+      "code": "https://github.com/chamoli2k2/Simon-game"
+    }
+  },
+  {
+    "name": "Drum Band Game",
+    "desc": "Developed a Drum Band game using JavaScript, HTML, and CSS, where each keyboard key simulates a different drum sound.",
+    "image": "drumband",
+    "category": "basicweb",
+    "links": {
+      "view": "https://drum-band.onrender.com/",
+      "code": "https://github.com/chamoli2k2/Drum-band"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "temple",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
